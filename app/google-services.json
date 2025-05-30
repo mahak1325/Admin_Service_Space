@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "438962155416",
+    "project_id": "admin-of-service-space",
+    "storage_bucket": "admin-of-service-space.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438962155416:android:3d4f78114ce99c3582c5ed",
+        "android_client_info": {
+          "package_name": "com.example.adminservicespace"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBe-9gNPo9TIqJbGuW5Q_BOxJKNyWbbG0M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
